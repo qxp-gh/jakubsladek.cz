@@ -9,6 +9,7 @@ Welcome to my corner of the web! This is the source code for my professional por
 - ⚡ Lightning-fast performance with Vite
 - 🎭 Smooth animations and transitions
 - 🎯 SEO optimized
+- 🔄 Automated deployments via Coolify
 
 ## 🛠️ Tech Stack
 
